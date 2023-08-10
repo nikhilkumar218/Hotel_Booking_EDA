@@ -1,1 +1,3 @@
-# Hotel_Booking_EDA
+# Business Problem and EDA Summary:
+
+City Hotel and Resort Hotel are grappling with elevated cancellation rates, impacting revenue and room utilization. Our aim is to provide effective business advice by analyzing booking cancellations and relevant factors. Assumptions include data validity, no current utilization of proposed solutions, and cancellations' substantial impact on earnings. Research focuses on variables influencing cancellations, optimizing the cancellation process, and improving pricing decisions. We hypothesize that higher prices, longer waiting lists, and bookings via offline agents correlate with cancellations. Utilizing Python, this EDA project seeks to unravel insights, enhance revenue, and offer data-driven solutions for these challenges.
